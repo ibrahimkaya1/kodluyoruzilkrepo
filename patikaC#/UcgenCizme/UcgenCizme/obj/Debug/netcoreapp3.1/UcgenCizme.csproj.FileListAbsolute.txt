@@ -1,0 +1,14 @@
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.exe
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.deps.json
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.json
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.runtimeconfig.dev.json
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\bin\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.AssemblyInfo.cs
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.dll
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.pdb
+C:\Users\Windows10\OneDrive\Belgeler\GitHub\kodluyoruzilkrepo\patikaC#\UcgenCizme\UcgenCizme\obj\Debug\netcoreapp3.1\UcgenCizme.genruntimeconfig.cache

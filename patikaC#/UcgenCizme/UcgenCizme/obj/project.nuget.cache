@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkWiLSTdwrzU52/EW/xmszE2an86pYVugHK72qGqYwJ0gAHx03KwV6CNE64oR8DQSbKmm5XFrk+mMJQc+AVHSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows10\\OneDrive\\Belgeler\\GitHub\\kodluyoruzilkrepo\\patikaC#\\UcgenCizme\\UcgenCizme\\UcgenCizme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
